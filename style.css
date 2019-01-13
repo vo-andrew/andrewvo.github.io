@@ -1,27 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 body {
-  font-family: cursive;
+  font-family: Open Sans, Roboto, cursive;
+  margin: 0px;
 }
 
-#container {
-  width: 1285px;
-  margin-left: auto;
-  margin-right: auto;
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav_bar {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+
+.nav_bar #menu {
+  font-size: 20px;
+  float: right;
+}
+
+.nav_bar #logo {
+  font-size: 20px;
+  float: left;
 }
 
 #header {
   background-color: #009973;
   color: white;
   text-align: center;
-}
-
-#intro {
-  width: 800px
-}
-
-#links {
   clear: both;
+  padding: 10px;
+}
+
+#content {
+  width: 1000px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#content #intro {
+  width: 582px;
+  float: left;
+  font-size: 21px;
+}
+
+#content #photo {
+  float: right;
 }
 
 #footer {
+  padding: 10px;
   clear: both;
+}
+
+#footer #links {
+  float: left;
+}
+
+#footer #copyright {
+  float: right;
 }
