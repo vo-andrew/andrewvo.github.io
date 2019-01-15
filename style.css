@@ -49,8 +49,13 @@ a {
   font-size: 21px;
 }
 
-#content #photo {
+#content #profile {
   float: right;
+}
+
+img[src="icons/profile.jpg"] {
+  border-radius: 50%;
+  width: 318px;
 }
 
 #footer {
