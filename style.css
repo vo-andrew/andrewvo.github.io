@@ -351,11 +351,11 @@ html, body {
   background-color: dodgerblue;
 }
 
-#personalwebsite {
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("./icons/website.png");
+#chess {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("./icons/chess.jpg");
 }
 
-#personalwebsiteback {
+#chessback {
   background-color: tomato;
 }
 
