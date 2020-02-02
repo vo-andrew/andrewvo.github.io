@@ -8,7 +8,7 @@ html, body {
 .head {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  padding: 2em;
+  padding: 2em 0em 2em 2em;
   justify-content: end;
   background: mediumaquamarine;
   margin: 0em;
