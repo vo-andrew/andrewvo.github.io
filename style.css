@@ -359,11 +359,11 @@ html, body {
   background-color: tomato;
 }
 
-#instagrambot {
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("./icons/instagram.png");
+#cv {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("./icons/cv.png");
 }
 
-#instagrambotback {
+#cvback {
   background-color: orange;
 }
 
