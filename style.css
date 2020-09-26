@@ -367,10 +367,10 @@ html, body {
   background-color: orange;
 }
 
-#skribblbot {
+#cv2 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("./icons/skribbl.png");
 }
 
-#skribblbotback {
+#cv2back {
   background-color: mediumseagreen;
 }
